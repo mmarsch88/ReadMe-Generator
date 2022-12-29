@@ -71,7 +71,7 @@ const questions = [
   },
 ];
 
-// Writing README.md File
+// Writing README.md file
 function writeToFile(fileName, data) {
   return fs.writeFileSync(path.join(process.cwd(), fileName), data);
 }
