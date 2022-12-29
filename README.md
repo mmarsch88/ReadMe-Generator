@@ -1,9 +1,9 @@
 # ReadMe Generator 
   ![Github license](https://img.shields.io/badge/license--blue.svg)
   ## Description
-  To create high quality, professional readme files from command line.
+  A command line application that will generate professional, high-quality README files based on user input.
   ## Deployed Application URL
-  
+  https://drive.google.com/file/d/1LdLE9HfTAAQv-ASR2uWZ8_UFG5tvPd1b/view
   ## Screenshot
   ![alt-text]()
   ## Table of Contents
@@ -14,15 +14,15 @@
   * [Testing](#testing)
   * [Questions](#questions)
   ## Features
-  undefined
+  This command line application will generate a README file based on user input prompted by prompts.
   ## Languages & Dependencies
-  "inquirer": "^8.2.5"
+  "inquirer": "^8.2.5", node.js, javascript
   ## How to Use This Application:
-  Javascript, node.js
+  Download node modules and .JSON files, run "node index.js" command in terminal, follow prompts.
   ## Contributors
-  
+  N/A
   ## Testing
-  
+  N/A
   ## Questions
   Please send your questions [here](mailto:matthew.marsch@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/mmarsch88](https://github.com/mmarsch88).
   
